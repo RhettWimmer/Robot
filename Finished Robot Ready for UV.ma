@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff07 scene
-//Name: REFACTORED ROBOT HERE.ma
-//Last modified: Tue, Feb 13, 2018 10:36:17 PM
+//Name: Finished Robot Ready for UV.ma
+//Last modified: Tue, Feb 13, 2018 10:36:43 PM
 //Codeset: 1252
 requires maya "2018ff07";
 currentUnit -l centimeter -a degree -t film;
@@ -51477,4 +51477,4 @@ connectAttr "groupId31.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId32.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId33.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId34.msg" ":initialShadingGroup.gn" -na;
-// End of REFACTORED ROBOT HERE.ma
+// End of Finished Robot Ready for UV.ma
